@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bulu507
+- 👋 Hi, I’m Agung C Nugroho
 - 👀 I’m interested in React and Unity
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend or Game Project
