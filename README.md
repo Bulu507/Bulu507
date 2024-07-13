@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agung C Nugroho
-- 👀 I’m interested in React and Unity
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Mobile developer
+- 🌱 I’m currently working as Mobile developer
 - 💞️ I’m looking to collaborate on Frontend or Game Project
 - 📫 How to reach me at agung.cnugr@gmail.com
 
